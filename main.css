@@ -1,0 +1,75 @@
+html, body {
+  position: relative;
+  line-height: 1;
+  background: #222;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  color: #fff;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: #fff;
+}
+
+div.projectwrapper {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+div.header {
+  background: rgba(64, 64, 64, 0.75);
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  border: 0;
+  text-align: center;
+  font-family: "Lucida Console";
+  font-size: 2em;
+}
+
+div.project {
+  position: relative;
+  width: 24em;
+  height: 18em;
+  margin: 1em;
+  border-radius: 25px;
+  font-family: "Lucida Console";
+}
+
+div.projectimage {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+div.projectheader {
+  position: absolute;
+  width: 100%;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  margin: 0;
+  border: 0;
+  background: rgba(64, 64, 64, 0.75);
+  font-family: "Lucida Console";
+}
+
+
+
+
+
+
+
+
