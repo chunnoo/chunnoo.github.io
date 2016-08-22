@@ -71,8 +71,11 @@ div.projectheader {
   width: 100%;
   padding-top: 0.25em;
   padding-bottom: 0.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
   margin: 0;
   border: 0;
+  box-sizing: border-box;
   background: rgba(64, 64, 64, 0.75);
   font-size: 1.25em;
   font-family: downloadedMonaco;
@@ -85,17 +88,12 @@ div.projectdescription {
   min-height: 4em;
   padding-top: 0.25em;
   padding-bottom: 0.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
   margin: 0;
   border: 0;
+  box-sizing: border-box;
   background: rgba(64, 64, 64, 0.5);
   color: #aaa;
   font-family: downloadedMonaco;
 }
-
-
-
-
-
-
-
-
