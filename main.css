@@ -61,6 +61,7 @@ div.projectimage {
   position: absolute;
   max-height: 100%;
   max-width: 100%;
+  min-width: 100%;
   height: auto;
   padding: 0;
   margin: 0;
